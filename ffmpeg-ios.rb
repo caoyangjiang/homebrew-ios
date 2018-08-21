@@ -1,8 +1,8 @@
 class FfmpegIos < Formula
   desc "Ffmpeg 3.4.2 for Ios"
   homepage "http://github.com/caoyangjiang/ffmpeg-ios"
-  url "https://github.com/caoyangjiang/ffmpeg-ios/archive/0.0.2.tar.gz"
-  sha256 "c763b4ea267d81997d3bca1dc3cf193ce7b2a2bc983e33a25306d252a22594d7"
+  url "https://github.com/caoyangjiang/ffmpeg-ios/archive/0.0.3.tar.gz"
+  sha256 "3ea19182ea122d1086fcf8cc6167c7238b6d62ea23a0fdb6bfe49654ce45c00d"
   head "http://github.com/caoyangjiang/ffmpeg-ios.git"
 
   bottle do
