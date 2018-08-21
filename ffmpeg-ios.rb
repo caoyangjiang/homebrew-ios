@@ -6,7 +6,7 @@ class FfmpegIos < Formula
   head "http://github.com/caoyangjiang/ffmpeg-ios.git"
 
   bottle do
-    root_url "https://s3-us-west-2.amazonaws.com/ffmpeg-ios/"
+    root_url "https://s3-us-west-2.amazonaws.com/ffmpeg-ios"
     cellar :any_skip_relocation
     sha256 "f980bc86ae4518eb5fb64a4c8fc7926ad5f08b94d10c5475e4948fce6fcf0deb" => :high_sierra
   end
